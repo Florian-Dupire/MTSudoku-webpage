@@ -93016,7 +93016,7 @@ a_b(a){var s=a*0.85
 return A.km("assets/minecraft/zombie.png",s,s)}}
 A.NF.prototype={
 M(a){var s=null,r=A.rG(s,A.aCj(B.ah,s,s,B.d9),s)
-return new A.uZ($.aMb(),"Flutter Demo",r,B.IP,s)}}
+return new A.uZ($.aMb(),"MT Sudoku",r,B.IP,s)}}
 A.awf.prototype={
 $2(a,b){return B.Rq},
 $S:558}
